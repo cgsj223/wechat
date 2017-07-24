@@ -1,9 +1,9 @@
 
 module.exports={
   weixin:{
-    appID:"wx45789a45dac54d19",
-    appSecret:"aa9f47b96a176e24cb57d6d30b19e4f2",
-    token:"hyf",
+    appID:"xxxxxxx",
+    appSecret:"xxxxxx",
+    token:"xxxxxx",
     menueData:{
       button:[
         {
