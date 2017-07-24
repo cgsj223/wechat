@@ -3,7 +3,6 @@ const Wechat = require('./wechat.js');
 module.exports=function(req,res){
   let wx=new Wechat(req,res);
   let data=req.body.xml;
-  console.log(data);
   if(data){
     switch (data.msgtype){
       case "event":
